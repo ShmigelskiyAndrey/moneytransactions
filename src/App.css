@@ -1,0 +1,28 @@
+body {
+    background-color: #ebebeb;
+}
+
+.App {
+    text-align: center;
+}
+
+.first {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.first-text {
+    margin-bottom: -8px;
+    margin-top: 0;
+}
+.first-arrow {
+    margin: 0 20px;
+}
+
+input {
+    border-radius: 5px;
+    border: 2px solid #b5b5b5;
+    
+}
